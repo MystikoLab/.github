@@ -5,8 +5,7 @@
 
 
 # Welcome to MystikoLabs!
-
-Our goal is to make apps for Macos that's open source. 
+We make open source MacOS Apps!
 
 ## Here are a few quicklinks:
 - [MystikoLab website (still under development)](https://mystikolabs.com)
