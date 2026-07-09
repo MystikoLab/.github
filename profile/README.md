@@ -4,9 +4,9 @@
 </p>
 
 
-# Welcome to RustCast!
+# Welcome to MystikoLabs!
 
-Our goal is to make efficient productivity software thats 100% free and open sourced. 
+Our goal is to make apps for Macos that's open source. 
 
 ## Here are a few quicklinks:
 - [MystikoLab website (still under development)](https://mystikolabs.com)
