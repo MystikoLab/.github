@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MystikoLab/.github/tree/main/profile/mystiko_app_icon.png?raw=true" width="128" height="128" alt="Mystiko Labs RustCast icon" />
+  <img src="https://github.com/MystikoLab/.github/blob/main/profile/mystiko_app_icon.png?raw=true" width="128" height="128" alt="Mystiko Labs RustCast icon" />
   <img src="https://github.com/MystikoLab/rustcast/blob/master/docs/icon.png?raw=true" width="128" height="128" alt="RustCast icon" />
 </p>
 
