@@ -10,10 +10,11 @@ We make open source MacOS Apps!
 
 ## Here are a few quicklinks:
 - [MystikoLab website (still under development)](https://mystikolabs.com)
-- [Get Rustcast](https://rustcast.app)
+- [Sxitch](https://sxitch.app)
+- [Sxitch Repo](https://github.com/MystikoLab/sxitch)
+- [Rustcast](https://rustcast.app)
 - [Rustcast Repo](https://github.com/MystikoLab/rustcast)
-- [Rustcast Wiki](https://github.com/MystikoLab/rustcast/wiki)
-- [Discord Server](https://discord.gg/bDfNYPbnC5)
+- [Discord Community](https://discord.mystikolabs.com)
 
 ## How you can help:
 
